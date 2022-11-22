@@ -1,0 +1,28 @@
+* {
+	margin:0;
+}
+img {
+	height: 300px;
+	width: 100%;
+}
+body{
+	background-color:purple;
+}
+#header{
+	margin-bottom: 10px;
+	background-color:yellow;
+	color:red;
+	border-bottom:2px solid red;
+	text-transform:uppercase;
+	padding-left:20px;
+}
+.sidebar{
+	width:20%;
+	height:100%;
+	color:red;
+	background-color:yellow;
+	border-right:10px solid red;
+}
+marquee {
+	height:100%;
+}
